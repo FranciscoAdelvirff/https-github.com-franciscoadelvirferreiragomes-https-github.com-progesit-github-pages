@@ -1,6 +1,15 @@
 # https-github.com-progesit-github-pages
 https://github.com/progesit/github-pages
 
+element.style {
+    margin: 0px;
+    background: #0e0e0e;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
 
 Cabeçalho
 Logo (Esquerda)
