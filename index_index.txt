@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title>Curriculo Vitae</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+		<h1>Curriculo Vitae</h1>
+		
+		<ul id="menu">
+			<li><a href="cv-resumido.html">Resumido</a></li>
+			<li class="ativo">Completo</li>
+		</ul>
+		
+		<div class="secao">
+			<h2>Dados Pessoais</h2>			
+				<div id="hcard-francisco-adelvir-ferreira-gomes" class="vcard">
+				  <img src="http://br.gravatar.com/userimage/14935412/ img_20190206_140408603_140408603_2 (1).jpgceIMG_20190206_140408603_2(1)f5 IMG_20190206_140408603_2(1)jpg?size=200" alt="photo of francisco" class="photo"/>
+				 <span class="given-name">Francisco</span>
+				  <span class="additional-name">Mazer</span>
+				  <span class="family-name">Jr</span>
+				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup> 
+
+				 <a class="email" href="mailto:ademir.mazer.jr@gmail.com">francisco.ferreira.franciscoadelvir70@gmail.com/a>
+				 <a class="url" href="http://francisco.winponta.com.br">http://francisco.winponta.com.br</a>
+				
+				<div class="adr">
+				  <span class="locality">Uberlandia</span>
+				, 
+				  <span class="region">Minas</span>
+
+				 </div>
+				</div>
+		</div>
+
+		<div class="secao">
+			<h2>Dados Profissionais</h2>
+			
+			<p><label>Empresa</label>Pitagoras</p>
+			<p><label>Empresa</label>Pitagoras</p>
+			<p><label>Empresa</label>Winponta</p>
+		</div>
+
+		<div class="secao">
+			<h2>Formação</h2>
+			
+			<p><label>Curso</label>Estudando linguagem c</p>
+			<p><label>Curso</label>Estudando Redes de computadores</p>
+			<p><label>Curso</label>Redes</p>
+		</div>
+		
+		<div id="footnote">
+			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
+			<li>Este <a href="http://microformats.org/wiki/hcard">hCard</a> foi criado com <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</li>
+		</div>		
+	</body>
+</html>
